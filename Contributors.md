@@ -18,7 +18,7 @@ Pashyant Srivastava
 - [DakOneil]
 - [Edward S]
 - [kuluruvineeth](https://github.com/kuluruvineeth)
-Sakshi Bansal
+- [Sakshi Bansal] (https://github.com/Sakshibansal172)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
 - [Uwazurike Victor](https://github.com/Paxtor2)
 - [CristianH15]
